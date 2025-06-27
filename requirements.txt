@@ -1,0 +1,3 @@
+pytesseract
+ultralytics
+opencv-python
